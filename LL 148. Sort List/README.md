@@ -1,8 +1,16 @@
 Given the head of a linked list, return the list after sorting it in ascending order.
 
+Vector Sort method(Not Added)
+Time Complexity : (N + NlogN + N) // Taking Elements from the list then sorting then adding element's in the list
+
+Space Complexity : O(N) // Storing the elements
+
 Bubble Sort : 
 Time Complexity : O(N * N);
 Time Complexity : O(1);
+
+Merge Sort : 
+Time Complexity : O(Log(n) * (N + n/2))
 
 Example 1:
 
