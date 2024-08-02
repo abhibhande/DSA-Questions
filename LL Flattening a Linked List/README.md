@@ -10,6 +10,7 @@ Note: The flattened list will be printed using the bottom pointer instead of the
 
 Solution :
 Time Complexity : O(N * 2M) { N for recursive Function call + 2M for merge sort (assuming that both the list of m size)}
+Time Complexity : O(N * 2M) { N for recursive Function call + 2M for merge sort (assuming that both the list of m size)}
 Space Complexity : O(N) { Stack Space }
 
 Examples:
