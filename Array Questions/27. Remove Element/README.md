@@ -26,7 +26,7 @@ If all assertions pass, then your solution will be accepted.
 
 
 Solution : 
-Time Complexity : O(n) { Two Pointer Apperoach}
+Time Complexity : O(n) { Two Pointer Approach}
 Space Complexity : O(1)
  
 

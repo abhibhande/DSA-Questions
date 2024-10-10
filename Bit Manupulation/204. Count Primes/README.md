@@ -6,6 +6,10 @@ Solution 1 :
 Time Complexity : O(N * Sqrt(N))
 Space Complexity : O(1)
 
+Optimal Solution : 
+Time Complexity : O(N)
+Space Complexity : O(N)
+
 Example 1:
 
 Input: n = 10
